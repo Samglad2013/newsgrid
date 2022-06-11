@@ -1,2 +1,2 @@
 # newsgrid
-hosted in https://github.com/Samglad2013/newsgrid.git
+hosted in https://samglad2013.github.io/newsgrid/
